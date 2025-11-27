@@ -1,28 +1,58 @@
 DATA: 26/11/2025
 
-    Julio Augusto Barbosa da Silva.
+    Julio Augusto Barbosa da Silva
     Feito:
     - levantamento de requisitos pelo Trello.
     Fazendo:
-    - método de leitura e escrita dos arquivos csv
+    - método de leitura e escrita dos arquivos csv.
     A fazer:
-    - método de registro de entrada
+    - método de registro de entrada.
 
     Alice Campos da Silva
     Feito:
     - levantamento de requisitos pelo Trello.
     Fazendo:
-    - Landing Page Figma (Desktop)
+    - Landing Page Figma (Desktop).
     A fazer:
-    - Landing Page Html, Css
+    - Landing Page Html, Css.
 
     Leandro dos Reis Filho
     Feito:
     - levantamento de requisitos pelo Trello.
     Fazendo:
-    - Transferindo o levantamento para o documento exigido
+    - Transferindo o levantamento para o documento exigido.
     A fazer:
-    - Landing Page Figma (Tablet)
+    - Landing Page Figma (Tablet).
 
 ----------------------------------------------------------
 
+DATA: 27/11/2025
+
+    Julio Augusto Barbosa da Silva
+    Feito:
+    - finalizado classe que interage com os arquivos csv.
+    - configuração do servidor dns.
+    Fazendo:
+    - protótipo de landing page para dispositivo mobile.
+    A fazer:
+    - método de registro de entrada.
+    - landing page responsivo para mobile.
+
+    Alice Campos da Silva
+    Feito:
+    - inicialização da landing page no VScode.
+    Fazendo:
+    - landing page para desktop no VS code.
+    A fazer:
+    - iniciar participação no Java.
+
+    Leandro dos Reis Filho
+    Feito:
+    - Tablet Landingpage figma.
+    Fazendo:
+    - Caso de Uso.
+    A fazer:
+    - landing page responsivo para tablet .
+    - terminar caso de uso.
+
+----------------------------------------------------------
