@@ -56,3 +56,33 @@ DATA: 27/11/2025
     - terminar caso de uso.
 
 ----------------------------------------------------------
+
+DATA: 28/11/2025
+
+    Alice campos da Silva
+    Feito:
+    - Acrescentação de novas telas de protótipos das landings pages do desktop e tablet
+    Fazendo:
+    - Atualizando os protótipos do Figma
+    A fazer:
+    - Terminar de fazer a landing page no VS code
+
+    Leandro dos Reis Filho
+    Feito:
+    - Inicialização da landing page no VScode (tablet)
+    - Caso de uso
+    Fazendo:
+    - Landing page para desktop no VS code (tablet)
+    A fazer:
+    - Iniciar participação no Java
+
+    Julio Augusto Barbosa da Silva
+    Feito:
+    - método de registro de entrada
+    - classe Veículo
+    Fazendo:
+    - protótipo de landing page para dispositivo mobile
+    - método de registro de saída
+    - método de precificação 
+    A fazer:
+    - landing page responsivo para mobile
