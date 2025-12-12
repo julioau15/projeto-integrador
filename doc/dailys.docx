@@ -114,3 +114,128 @@ DATA: 3/12/2025
     - protótipo de landing page para dispositivo mobile
     A fazer:
     - landing page responsivo para mobile
+
+    ----------------------------------------------------------
+
+DATA: 05/12/2025
+
+    Julio Augusto Barbosa da Silva
+    Feito:
+    - método de registrar saída 
+    - método de calcular preço 
+    - método de precificação 
+    Fazendo:
+    - protótipo de landing page para dispositivo mobile
+    A fazer:
+    - landing page responsivo para mobile
+
+    Leandro dos Reis Filho
+    Feito:
+    - Tela principal no javafx
+    Fazendo:
+    - fazendo tabelas do javafx
+    A fazer:
+    - colocar botões funcionando
+
+    Alice Campos da Silva
+    Feito:
+    - header completo landing page
+    Fazendo:
+    - Montando cards da landing page
+    A fazer:
+    - Colocando buttons e alterando as cores e fontes da Landingpage
+
+    ----------------------------------------------------------
+
+DATA: 09/12/2025
+
+    Leandro dos Reis Filho
+    Feito:
+    - Tela tabelas no javafx
+    Fazendo:
+    - fazendo landingpage no sistema daso packet tracer com servers
+    A fazer:
+    - colocar dropdown na tela de saída 
+
+    Alice Campos da Silva 
+    Feito: 
+    - Configurações da landing page no VScode
+    Fazendo: 
+    - configurando  estrura do site e parte visual
+    A fazer: 
+    - Iniciar no javafx e configurar a parte visual e tamanhos
+
+    Julio Augusto Barbosa da Silva
+    Feito:
+    - protótipo de landing page para dispositivo mobile 
+    - definido Path dos arquivos csv
+    - feito método para escrever combo box
+    Fazendo:
+    - protótipo de landing page para aplicativo 
+    - landing page responsivo para dispositivo mobile 
+    A fazer:
+    - método para escrever tabelas
+
+    ----------------------------------------------------------
+
+DATA: 10/12/2025
+
+    Alice Campos da Silva
+    Feito: 
+    - Parcialemnte landing page no VScode
+    Fazendo: 
+    - Parte visual do sistema no JavaFx
+    A fazer: 
+    - Ajustes finais no figma
+
+    Julio Augusto Barbosa da Silva
+    Feito:
+    - protótipo de landing page para aplicativo 
+    - landing page responsivo para dispositivo mobile 
+    - correções na landing page para auditoria no Lighthouse 
+    Fazendo:
+    - correções na landing page 
+    A fazer:
+    - método para escrever tabelas
+
+    Leandro dos Reis Filho
+    Feito:
+    - Dropdown e tela entrada no javafx
+    Fazendo:
+    - Adicionando alguns requisitos 
+    A fazer:
+    - terminar o apache 2 na aula de SOP
+
+    ----------------------------------------------------------
+
+DATA: 11/12/2025
+
+    Alice Campos da Silva 
+    Feito: 
+    - Parte visual do sistema no JavaFx
+    Fazendo: 
+    - Ajustes finas no figma
+    A fazer:
+    - finalizar projeto
+
+    Julio Augusto Barbosa da Silva
+    11/12/2025
+    Feito:
+    - correções na landing page
+    - método para escrever tabelas
+    - método para chamar limpar arquivo 
+    - estilizado tela principal 
+    - adicionado comentários ao aplicativo 
+    Fazendo:
+    - correções na interface do aplicativo 
+    - documentação do servidor dns
+    A fazer:
+    - finalizar projeto
+
+    Leandro dos Reis Filho
+    Feito:
+    - Apache 2 e sistema funcionando na maquina virtual
+    Fazendo:
+    - documentacão da aula de SOP
+    A fazer:
+    - finalizar detalhes
