@@ -14,3 +14,4 @@ Projeto desenvolvido no SENAI integrando as disciplinas de Arquitetura de Redes,
 * [Dailys](doc/dailys.docx)
 * [casos de uso](https://drive.google.com/file/d/183jZAtjJiBHljtXQRNWxa5vo2AhkexSV/view?usp=sharing)
 * [Requisitos](https://docs.google.com/spreadsheets/d/1c-L_UkT_wDYiNypw5BvyiuVFCArzZQSoNP_CEA3I0SE/edit?usp=sharing)
+* [Protótipo no Figma](https://www.figma.com/design/XsHeENdIzqjJtnCPvVlMRZ/Landing-page---Projeto-integrador?node-id=0-1&t=aXUz9rWs9TDIHhjs-1)
